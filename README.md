@@ -8,6 +8,6 @@
 
 ![](https://github.com/whosekissismoss/hw6/blob/master/Screenshot%20(30).png)
 
-2. To epitomize употребляется с более конкретными существительными (soldier-poet, romanticism, Africa), а to embody c более абстрактыми (philosophy, ideal, principle). Оба глагола могут употребляться, например, со словом sovereignty.  
+2. *To epitomize* употребляется с более конкретными существительными (soldier-poet, romanticism, Africa), а *to embody* c более абстрактыми (philosophy, ideal, principle). Оба глагола могут употребляться, например, со словом sovereignty.  
 
 ![](https://github.com/whosekissismoss/hw6/blob/master/Screenshot%20(31).png)
