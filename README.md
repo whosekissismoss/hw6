@@ -11,3 +11,11 @@
 2. *To epitomize* употребляется с более конкретными существительными (soldier-poet, romanticism, Africa), а *to embody* c более абстрактыми (philosophy, ideal, principle). Оба глагола могут употребляться, например, со словом sovereignty.  
 
 ![](https://github.com/whosekissismoss/hw6/blob/master/Screenshot%20(31).png)
+
+3. По данным Sketch Engine в 1991-1992 годах произошел резкий рост частотности слова *authenticity*, при этом в Google Ngrams в этот период рост частотности, напротив, замедляется:
+
+![](https://github.com/whosekissismoss/hw6/blob/master/Screenshot%20(33).png)
+
+![](https://github.com/whosekissismoss/hw6/blob/master/Screenshot%20(34).png)
+
+Возможно, это можно объяснить разницей в размере корпусов — к примеру, в Sketch Engine слово вообще не встречается до 1979 года (нет текстов за этот период или слово не встречается в текстах представленных типов?), в то время как в Google Ngrams оно присутствует начиная с 1800 года — или разницей в типе текстов, представленных в корпусах (одни из самых многочисленных подкорпусов в Sketch Engine — Written Academic	и Written Domain Informative).
